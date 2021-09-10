@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="step1">1. Go to WhatsApp and check desired story</string>
+    <string name="step2">2. Come back to our app and download video or image from here</string>
+    <string name="step3">3. Your Image/Video show instantly in Gallery</string>
+    <string name="step4">* You can find file in Storage/StatusSaver</string>
+    <string name="longHold">*Hold long on image to delete from saved</string>
+</resources>

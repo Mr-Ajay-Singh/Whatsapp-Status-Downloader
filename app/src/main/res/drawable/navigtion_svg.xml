@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="30dp"
+    android:width="30dp"
+    android:viewportWidth="@integer/viewPortWidth"
+    android:viewportHeight="@integer/viewPortHeight"
+    >
+    <group
+        android:name="@string/navigationGroupName"
+        android:pivotX="@integer/viewCenterX"
+        android:pivotY="@integer/viewCenterY"
+        >
+    <path android:name="@string/navigationName"
+        android:pathData="@string/navigationPath"
+        android:strokeLineCap="square"
+        android:strokeWidth="0.5"
+        android:fillColor="@color/white"
+        android:strokeColor="@color/white"
+        />
+    </group>
+
+</vector>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/statusInDrawer"
+            android:icon="@drawable/status_svg"
+            android:title="Status" />
+
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2"
+        android:menuCategory="container">
+        <item
+            android:id="@+id/howToUseInDrawer"
+            android:icon="@drawable/question_mark"
+            android:title="How To Use"
+            />
+
+        <item
+            android:id="@+id/shareInDrawer"
+            android:icon="@drawable/share_svg"
+            android:title="Share"
+            />
+
+
+    </group>
+    <group android:id="@+id/group3"
+        android:checkableBehavior="single"
+        android:menuCategory="container">
+        <item
+            android:id="@+id/rateUsInDrawer"
+            android:icon="@drawable/rate_us_svg"
+            android:title="Rate Us"
+            />
+
+
+
+
+        <item
+            android:id="@+id/privacyPolicyInDrawer"
+            android:icon="@drawable/privacy_policy_svg"
+            android:title="Privacy Policy"
+            />
+
+        <item
+            android:id="@+id/contctUsInDrawer"
+            android:icon="@drawable/contact_us_svg"
+            android:title="Contact Us"
+            />
+        <item
+            android:id="@+id/otherAppInDrawer"
+            android:icon="@drawable/other_apps_svg"
+            android:title="Other Apps"
+            />
+
+
+
+    </group>
+
+</menu>
