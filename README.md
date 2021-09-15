@@ -3,7 +3,8 @@
 
 It is an Android App which is used to save WhatsApp status photos or videos permanently and show it in gallery. Created using Android Studio.
 
-<a href="https://github.com/Mr-Ajay-Singh/Whatsapp-Status-Downloader/blob/master/app/release/WhatsApp-Status-Downloader.apk" target="_blank" >Download</a>
+Download Apk By Clicking Below Link
+<a href="https://Mr-Ajay-Singh.github.io/Whatsapp-Status-Downloader/WhatsApp-Status-Downloader.apk" target="_blank" >Download APK</a>
 
 
 <span>
